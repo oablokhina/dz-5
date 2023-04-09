@@ -16,7 +16,8 @@ public class Main {
         }
         if (sum_1 % 2 == 0 || sum_2 % 2 == 0) {
             System.out.println(true);
+        } else {
+            System.out.println(false);
         }
-
     }
 }
